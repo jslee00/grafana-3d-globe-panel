@@ -227,6 +227,7 @@ angular.module('grafana.directives')
       animation: false,
       geocoder: false,
       shadows: true,
+      imageryProvider: new Cesium.IonImageryProvider({ assetId: 3845 }),
     });
 
     // Make lighting permanent and not fade out with zoom distance
