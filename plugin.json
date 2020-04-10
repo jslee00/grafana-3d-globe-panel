@@ -1,7 +1,7 @@
 {
   "type": "panel",
   "name": "3D Globe Panel",
-  "id": "3d-globe-panel",
+  "id": "cesium-panel",
 
   "info": {
     "description": "A Cesium based 3D Globe panel plugin.",

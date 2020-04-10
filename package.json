@@ -1,8 +1,8 @@
 {
-  "name": "satellogic-3d-globe-panel",
+  "name": "cesium-panel",
   "version": "0.1.0",
   "description": "A Cesium based 3D Globe panel plugin for Grafana.",
-  "bugs": "https://github.com/satellogic/grafana-3d-globe-panel/issues",
+  "bugs": "https://github.com/jslee00/grafana-3d-globe-panel/issues",
   "main": "false",
   "dependencies": {},
   "scripts": {
@@ -11,13 +11,13 @@
     "server": "node ./server/server.js"
   },
   "author": {
-    "name": "Satellogic SA",
-    "url": "http://satellogic.com"
+    "name": "Jaeseok Lee",
+    "url": "https://www.jslee.me"
   },
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/satellogic/grafana-3d-globe-panel.git"
+    "url": "https://github.com/jslee00/grafana-3d-globe-panel.git"
   },
   "devDependencies": {
     "babel-eslint": "7.1.1",
