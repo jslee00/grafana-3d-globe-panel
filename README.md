@@ -64,6 +64,6 @@ Globe icon made by [http://www.freepik.com](Freepik) from
 
 The MIT License (MIT)
 
-Copyright (c) 2016 Satellogic SA.
+Copyright (c) 2020 Jaeseok Lee.
 
 See [LICENSE](LICENSE) for details
